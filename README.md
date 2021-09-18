@@ -1,2 +1,0 @@
-# firstdjango
-First Django Project
